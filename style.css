@@ -9,6 +9,7 @@
     background-size: cover;
     height: 95vh;
     
+    
 }
 header{
     display: flex;
@@ -134,10 +135,22 @@ img{
 
 /* section-3 */
 .section-3{
-    height: 70vh;
+    height: 90vh;
+    
 }
 .div2-1{
     text-align: center;
     font-size: 38px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 10px;
+}
+.image{
+    display: flex; 
+    margin: 40px;
+}
+.image img{
+   height: 200px;
+   width: 400px;
+   padding:0px 30px;
+
 }
