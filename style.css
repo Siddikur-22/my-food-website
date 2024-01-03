@@ -207,7 +207,7 @@ img{
 }
 /* section-5 */
 .section-5{
-    height: 20vh;
+    height: 30vh;
     background:linear-gradient(to right,#00093c,#2d0b00);
     bottom: 0;
     color: #fff;
@@ -226,11 +226,13 @@ img{
     flex-wrap: wrap;
     align-items: flex-start;
     justify-content: space-between;
+   
     
 }
 .col{
     flex-basis: 25%;
     padding: 10px;
+    
 }
 ul li{
     list-style: none;
@@ -240,4 +242,13 @@ ul li a{
     text-decoration: none;
     color: #fff;
     padding: 10px 0;
+}
+
+.com1 h3{
+    
+    font-size: 40px;
+    padding: 20px;
+}
+.com1 p{
+    margin-left: 20px;
 }
