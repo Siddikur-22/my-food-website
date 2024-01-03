@@ -46,7 +46,7 @@ nav ul li{
     font-size: 26px;
     margin-left: 40px;
     color: white;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 .font-write{
     margin-top: 140px;
@@ -57,12 +57,13 @@ nav ul li{
     margin-right: 45px;
     color: white;
     padding: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;;
 
     /*font name:  'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif*/
-
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    
-    
+ 
+}
+.font-write p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;;
 }
 .pragraph{
 
@@ -99,12 +100,13 @@ margin-left: 748px;
 }
 img{
     height: 60px;
-    border-radius: 20px;
+    border-radius: 17px;
     padding: 0 15px;
 }
 .pragraph-1{
     display: flex;
     padding: 40px ;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 .div-one{
     display: flex;
@@ -128,6 +130,7 @@ img{
     
    
 }
+
 
 /* section-3 */
 .section-3{
