@@ -4,7 +4,7 @@
 }
 
 .section-1{
-    background: url(image/wbsite-image.jpg);
+    background: url(image/background.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 95vh;
@@ -84,6 +84,7 @@ margin-left: 748px;
 }
 .section-2{
     height: 80vh;
+   
 }
 /* section-2 */
 
@@ -92,4 +93,19 @@ margin-left: 748px;
     font-size: 38px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     padding: 20px;
+}
+img{
+    height: 60px;
+    border-radius: 20px;
+    padding: 0 15px;
+}
+.pragraph-1{
+    display: flex;
+    padding: 50px;
+}
+.div-one{
+    display: flex;
+    height: 30px;
+    width: 450px;
+    margin-left: 100px;
 }
