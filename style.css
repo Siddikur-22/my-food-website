@@ -131,11 +131,17 @@ img{
     
    
 }
+.line{
+    border: 1px solid red;
+    width: 400px;
+    margin-left:550px;
+    margin-top: 20px;
+}
 
 
 /* section-3 */
 .section-3{
-    height: 90vh;
+    height: 60vh;
     
 }
 .div2-1{
