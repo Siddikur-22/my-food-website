@@ -207,8 +207,37 @@ img{
 }
 /* section-5 */
 .section-5{
-    height: 60vh;
-    background-color: rgb(233, 63, 29);
+    height: 20vh;
+    background:linear-gradient(to right,#00093c,#2d0b00);
+    bottom: 0;
+    color: #fff;
+    padding: 100px 0 30px;
+    border-top-left-radius:125px;
+    font-size: 13px;
+    line-height: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+    
+}
+.row{
+    width: 85%;
+    margin:auto;
     display: flex;
-    flex-grow:1(default);
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: space-between;
+    
+}
+.col{
+    flex-basis: 25%;
+    padding: 10px;
+}
+ul li{
+    list-style: none;
+    margin-bottom: 2px;
+}
+ul li a{
+    text-decoration: none;
+    color: #fff;
+    padding: 10px 0;
 }
